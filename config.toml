@@ -78,8 +78,8 @@ minify = true
     url        = "/about/"
     weight     = -20
 
-  [[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/atom.xml"
-    weight     = -10
+  #[[menu.main]]
+  #  identifier = "rss"
+  #  name       = "RSS"
+  #  url        = "/atom.xml"
+  #  weight     = -10
