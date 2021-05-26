@@ -73,9 +73,9 @@ minify = true
     weight     = -111
 
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about/"
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
     weight     = -20
 
   #[[menu.main]]
